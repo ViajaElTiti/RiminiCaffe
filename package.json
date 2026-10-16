@@ -1,0 +1,14 @@
+{
+  "name": "rimini-caffe-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "python3 tools/images.py && python3 tools/social.py",
+    "build": "node tools/build.mjs",
+    "dev": "node tools/build.mjs && node tools/serve.mjs",
+    "check": "node tools/check.mjs"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}

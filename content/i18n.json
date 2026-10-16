@@ -1,0 +1,558 @@
+{
+  "langs": [
+    "es",
+    "ca",
+    "en"
+  ],
+  "meta": {
+    "es": {
+      "locale": "es_ES",
+      "label": "Español",
+      "short": "ES",
+      "htmlLang": "es"
+    },
+    "ca": {
+      "locale": "ca_ES",
+      "label": "Català",
+      "short": "CA",
+      "htmlLang": "ca"
+    },
+    "en": {
+      "locale": "en_GB",
+      "label": "English",
+      "short": "EN",
+      "htmlLang": "en"
+    }
+  },
+  "slugs": {
+    "home": {
+      "es": "",
+      "ca": "",
+      "en": ""
+    },
+    "menu": {
+      "es": "carta",
+      "ca": "carta",
+      "en": "menu"
+    },
+    "visit": {
+      "es": "visitanos",
+      "ca": "visita",
+      "en": "visit"
+    },
+    "legal": {
+      "es": "aviso-legal",
+      "ca": "avis-legal",
+      "en": "legal"
+    }
+  },
+  "ui": {
+    "skip": {
+      "es": "Saltar al contenido",
+      "ca": "Salta al contingut",
+      "en": "Skip to content"
+    },
+    "navMenu": {
+      "es": "Carta",
+      "ca": "Carta",
+      "en": "Menu"
+    },
+    "navVisit": {
+      "es": "Visítanos",
+      "ca": "Visita",
+      "en": "Visit"
+    },
+    "navLabel": {
+      "es": "Principal",
+      "ca": "Principal",
+      "en": "Main"
+    },
+    "langLabel": {
+      "es": "Idioma",
+      "ca": "Idioma",
+      "en": "Language"
+    },
+    "home": {
+      "es": "Rimini Caffè, inicio",
+      "ca": "Rimini Caffè, inici",
+      "en": "Rimini Caffè, home"
+    },
+    "directions": {
+      "es": "Cómo llegar",
+      "ca": "Com arribar",
+      "en": "Get directions"
+    },
+    "call": {
+      "es": "Llamar",
+      "ca": "Trucar",
+      "en": "Call"
+    },
+    "whatsapp": {
+      "es": "WhatsApp",
+      "ca": "WhatsApp",
+      "en": "WhatsApp"
+    },
+    "seeMenu": {
+      "es": "Ver la carta",
+      "ca": "Veure la carta",
+      "en": "See the menu"
+    },
+    "seeFullMenu": {
+      "es": "Ver la carta completa",
+      "ca": "Veure la carta completa",
+      "en": "See the full menu"
+    },
+    "now": {
+      "es": "Ahora",
+      "ca": "Ara",
+      "en": "Now"
+    },
+    "hoursStatic": {
+      "es": "Horario",
+      "ca": "Horari",
+      "en": "Opening hours"
+    },
+    "and": {
+      "es": "y",
+      "ca": "i",
+      "en": "and"
+    },
+    "statusOpen": {
+      "es": "Abierto ahora · hasta las {t}",
+      "ca": "Obert ara · fins a les {t}",
+      "en": "Open now · until {t}"
+    },
+    "statusSoon": {
+      "es": "Cierra pronto · a las {t}",
+      "ca": "Tanca aviat · a les {t}",
+      "en": "Closing soon · at {t}"
+    },
+    "statusClosed": {
+      "es": "Cerrado · abre {w} a las {t}",
+      "ca": "Tancat · obre {w} a les {t}",
+      "en": "Closed · opens {w} at {t}"
+    },
+    "today": {
+      "es": "hoy",
+      "ca": "avui",
+      "en": "today"
+    },
+    "tomorrow": {
+      "es": "mañana",
+      "ca": "demà",
+      "en": "tomorrow"
+    },
+    "veg": {
+      "es": "Vegetariano",
+      "ca": "Vegetarià",
+      "en": "Vegetarian"
+    },
+    "priceNote": {
+      "es": "Precios en euros, IVA incluido.",
+      "ca": "Preus en euros, IVA inclòs.",
+      "en": "Prices in euros, VAT included."
+    },
+    "allergens": {
+      "es": "Alérgenos: pregunta al equipo antes de pedir.",
+      "ca": "Al·lèrgens: pregunta a l'equip abans de demanar.",
+      "en": "Allergens: please ask the team before ordering."
+    },
+    "priceAsk": {
+      "es": "Consulta precio",
+      "ca": "Consulta el preu",
+      "en": "Ask for price"
+    },
+    "menuCats": {
+      "es": "Categorías de la carta",
+      "ca": "Categories de la carta",
+      "en": "Menu categories"
+    },
+    "backTop": {
+      "es": "Volver arriba",
+      "ca": "Torna amunt",
+      "en": "Back to top"
+    },
+    "mapOpen": {
+      "es": "Abrir en Google Maps",
+      "ca": "Obrir a Google Maps",
+      "en": "Open in Google Maps"
+    },
+    "mapTitle": {
+      "es": "Mapa de la ubicación de Rimini Caffè",
+      "ca": "Mapa de la ubicació de Rimini Caffè",
+      "en": "Map showing Rimini Caffè's location"
+    },
+    "followIg": {
+      "es": "Instagram",
+      "ca": "Instagram",
+      "en": "Instagram"
+    },
+    "followTt": {
+      "es": "TikTok",
+      "ca": "TikTok",
+      "en": "TikTok"
+    },
+    "legalLink": {
+      "es": "Aviso legal y privacidad",
+      "ca": "Avís legal i privadesa",
+      "en": "Legal notice & privacy"
+    },
+    "rights": {
+      "es": "Todos los derechos reservados.",
+      "ca": "Tots els drets reservats.",
+      "en": "All rights reserved."
+    },
+    "notFoundTitle": {
+      "es": "Esta página no existe",
+      "ca": "Aquesta pàgina no existeix",
+      "en": "This page doesn't exist"
+    },
+    "notFoundText": {
+      "es": "Lo que buscas no está aquí. La barra, sí.",
+      "ca": "El que busques no és aquí. La barra, sí.",
+      "en": "What you're looking for isn't here. The counter is."
+    },
+    "everyDay": {
+      "es": "Todos los días",
+      "ca": "Cada dia",
+      "en": "Every day"
+    },
+    "terraceNote": {
+      "es": "Terraza: 10 % de recargo sobre los precios de la carta.",
+      "ca": "Terrassa: 10 % de recàrrec sobre els preus de la carta.",
+      "en": "Terrace: 10% surcharge on menu prices."
+    }
+  },
+  "days": {
+    "es": [
+      "domingo",
+      "lunes",
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado"
+    ],
+    "ca": [
+      "diumenge",
+      "dilluns",
+      "dimarts",
+      "dimecres",
+      "dijous",
+      "divendres",
+      "dissabte"
+    ],
+    "en": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ]
+  },
+  "daysShort": {
+    "es": [
+      "dom",
+      "lun",
+      "mar",
+      "mié",
+      "jue",
+      "vie",
+      "sáb"
+    ],
+    "ca": [
+      "dg",
+      "dl",
+      "dt",
+      "dc",
+      "dj",
+      "dv",
+      "ds"
+    ],
+    "en": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ]
+  },
+  "home": {
+    "title": {
+      "es": "Rimini Caffè · Café de especialidad y focacceria en Barcelona",
+      "ca": "Rimini Caffè · Cafè d'especialitat i focacceria a Barcelona",
+      "en": "Rimini Caffè · Specialty coffee & focacceria in Barcelona"
+    },
+    "description": {
+      "es": "Café de especialidad, focaccias y pizzas al horno en la Ronda de Sant Pere 37, Barcelona. Abierto todos los días de 9:00 a 21:00.",
+      "ca": "Cafè d'especialitat, focaccies i pizzes al forn a la Ronda de Sant Pere 37, Barcelona. Obert cada dia de 9:00 a 21:00.",
+      "en": "Specialty coffee, focaccias and oven-baked pizzas at Ronda de Sant Pere 37, Barcelona. Open every day from 9:00 to 21:00."
+    },
+    "h1": {
+      "es": "Del primer café al último spritz.",
+      "ca": "Del primer cafè a l'últim spritz.",
+      "en": "From first coffee to last spritz."
+    },
+    "lead": {
+      "es": "Café de especialidad, focaccias y pizzas al horno en la Ronda de Sant Pere 37, Barcelona.",
+      "ca": "Cafè d'especialitat, focaccies i pizzes al forn a la Ronda de Sant Pere 37, Barcelona.",
+      "en": "Specialty coffee, focaccias and oven-baked pizzas on Ronda de Sant Pere 37, Barcelona."
+    },
+    "statement": {
+      "es": "Una mirada fresca a la tradición italiana y mediterránea.",
+      "ca": "Una mirada fresca a la tradició italiana i mediterrània.",
+      "en": "A fresh take on Italian and Mediterranean tradition."
+    },
+    "dayTitle": {
+      "es": "Un día en Rimini",
+      "ca": "Un dia a Rimini",
+      "en": "A day at Rimini"
+    },
+    "dayParts": [
+      {
+        "id": "morning",
+        "time": "09:00",
+        "from": 9,
+        "to": 13,
+        "link": "coffee",
+        "title": {
+          "es": "Primero, el café",
+          "ca": "Primer, el cafè",
+          "en": "Coffee first"
+        },
+        "text": {
+          "es": "Espresso, flat white, matcha y bollería. Si el día pide más, hay brunch.",
+          "ca": "Espresso, flat white, matcha i brioixeria. Si el dia demana més, hi ha brunch.",
+          "en": "Espresso, flat white, matcha and pastries. If the day asks for more, there's brunch."
+        },
+        "cta": {
+          "es": "Café y brunch en la carta",
+          "ca": "Cafè i brunch a la carta",
+          "en": "Coffee & brunch on the menu"
+        },
+        "photo": "latte-heart"
+      },
+      {
+        "id": "midday",
+        "time": "13:00",
+        "from": 13,
+        "to": 18,
+        "link": "focacce",
+        "title": {
+          "es": "Focaccia o pizza",
+          "ca": "Focaccia o pizza",
+          "en": "Focaccia or pizza"
+        },
+        "text": {
+          "es": "Focaccias rellenas y pizzas al horno, servidas en tabla. A mediodía conviene reservar: escríbenos por WhatsApp.",
+          "ca": "Focaccies farcides i pizzes al forn, servides en post de fusta. A migdia convé reservar: escriu-nos per WhatsApp.",
+          "en": "Stuffed focaccias and oven-baked pizzas, served on a board. Lunchtime fills up, so message us on WhatsApp to book."
+        },
+        "cta": {
+          "es": "Focacce y pizzas en la carta",
+          "ca": "Focacce i pizzes a la carta",
+          "en": "Focacce & pizzas on the menu"
+        },
+        "photo": "pizza-diavola"
+      },
+      {
+        "id": "evening",
+        "time": "19:00",
+        "from": 18,
+        "to": 24,
+        "link": "aperitivo",
+        "title": {
+          "es": "Aperitivo",
+          "ca": "Aperitiu",
+          "en": "Aperitivo"
+        },
+        "text": {
+          "es": "Aperol spritz, vino italiano y una tabla de embutidos y quesos para compartir.",
+          "ca": "Aperol spritz, vi italià i una taula d'embotits i formatges per compartir.",
+          "en": "Aperol spritz, Italian wine and a board of Italian cold cuts and cheese to share."
+        },
+        "cta": {
+          "es": "Aperitivo en la carta",
+          "ca": "Aperitiu a la carta",
+          "en": "Aperitivo on the menu"
+        },
+        "photo": "barista-pour"
+      }
+    ],
+    "menuTitle": {
+      "es": "La carta",
+      "ca": "La carta",
+      "en": "The menu"
+    },
+    "menuLead": {
+      "es": "Café, focacce, pizzas, brunch y aperitivo. Todo en una sola página, sin PDF.",
+      "ca": "Cafè, focacce, pizzes, brunch i aperitiu. Tot en una sola pàgina, sense PDF.",
+      "en": "Coffee, focacce, pizzas, brunch and aperitivo. One page, no PDF."
+    },
+    "galleryTitle": {
+      "es": "Rimini, por dentro",
+      "ca": "Rimini, per dins",
+      "en": "Inside Rimini"
+    },
+    "quote": {
+      "es": "Primero el café. Después, la vida.",
+      "ca": "Primer el cafè. Després, la vida.",
+      "en": "First coffee, then life."
+    },
+    "eventsTitle": {
+      "es": "Coffee & Meet",
+      "ca": "Coffee & Meet",
+      "en": "Coffee & Meet"
+    },
+    "eventsLead": {
+      "es": "Próximos encuentros en Rimini.",
+      "ca": "Propers encontres a Rimini.",
+      "en": "Upcoming get-togethers at Rimini."
+    }
+  },
+  "menuPage": {
+    "title": {
+      "es": "Carta · Café, focaccias, pizzas y aperitivo | Rimini Caffè",
+      "ca": "Carta · Cafè, focaccies, pizzes i aperitiu | Rimini Caffè",
+      "en": "Menu · Coffee, focaccias, pizzas & aperitivo | Rimini Caffè"
+    },
+    "description": {
+      "es": "La carta de Rimini Caffè en Barcelona: café de especialidad, matcha, focacce, pizzas, brunch, postres y aperitivo. Con precios.",
+      "ca": "La carta de Rimini Caffè a Barcelona: cafè d'especialitat, matcha, focacce, pizzes, brunch, postres i aperitiu. Amb preus.",
+      "en": "Rimini Caffè's menu in Barcelona: specialty coffee, matcha, focacce, pizzas, brunch, desserts and aperitivo. With prices."
+    },
+    "h1": {
+      "es": "La carta",
+      "ca": "La carta",
+      "en": "The menu"
+    },
+    "lead": {
+      "es": "Del primer café al último spritz.",
+      "ca": "Del primer cafè a l'últim spritz.",
+      "en": "From first coffee to last spritz."
+    },
+    "ctaTitle": {
+      "es": "¿Vienes a mediodía?",
+      "ca": "Vens a migdia?",
+      "en": "Coming at lunchtime?"
+    },
+    "ctaText": {
+      "es": "Reserva por teléfono o WhatsApp. También tenemos ventana de take-away.",
+      "ca": "Reserva per telèfon o WhatsApp. També tenim finestra de take-away.",
+      "en": "Book by phone or WhatsApp. We also have a take-away window."
+    }
+  },
+  "visitPage": {
+    "title": {
+      "es": "Visítanos · Ronda de Sant Pere 37, Barcelona | Rimini Caffè",
+      "ca": "Visita · Ronda de Sant Pere 37, Barcelona | Rimini Caffè",
+      "en": "Visit · Ronda de Sant Pere 37, Barcelona | Rimini Caffè"
+    },
+    "description": {
+      "es": "Cómo llegar a Rimini Caffè: Ronda de Sant Pere 37, Barcelona. Horario, teléfono, WhatsApp, terraza y take-away.",
+      "ca": "Com arribar a Rimini Caffè: Ronda de Sant Pere 37, Barcelona. Horari, telèfon, WhatsApp, terrassa i take-away.",
+      "en": "How to find Rimini Caffè: Ronda de Sant Pere 37, Barcelona. Opening hours, phone, WhatsApp, terrace and take-away."
+    },
+    "h1": {
+      "es": "Visítanos",
+      "ca": "Vine a veure'ns",
+      "en": "Visit us"
+    },
+    "address": {
+      "es": "Dirección",
+      "ca": "Adreça",
+      "en": "Address"
+    },
+    "hours": {
+      "es": "Horario",
+      "ca": "Horari",
+      "en": "Opening hours"
+    },
+    "contact": {
+      "es": "Contacto",
+      "ca": "Contacte",
+      "en": "Contact"
+    },
+    "services": {
+      "es": "Antes de venir",
+      "ca": "Abans de venir",
+      "en": "Before you come"
+    },
+    "serviceList": [
+      {
+        "es": "Terraza exterior, con un 10 % de recargo.",
+        "ca": "Terrassa exterior, amb un 10 % de recàrrec.",
+        "en": "Outdoor terrace, with a 10% surcharge."
+      },
+      {
+        "es": "Ventana de take-away: pide y llévatelo.",
+        "ca": "Finestra de take-away: demana i emporta't-ho.",
+        "en": "Take-away window: order and go."
+      },
+      {
+        "es": "A mediodía conviene reservar, por teléfono o WhatsApp.",
+        "ca": "A migdia convé reservar, per telèfon o WhatsApp.",
+        "en": "At lunchtime booking helps: call or message us on WhatsApp."
+      }
+    ],
+    "waText": {
+      "es": "Hola, quisiera reservar una mesa en Rimini Caffè.",
+      "ca": "Hola, voldria reservar una taula a Rimini Caffè.",
+      "en": "Hello, I'd like to book a table at Rimini Caffè."
+    }
+  },
+  "legalPage": {
+    "title": {
+      "es": "Aviso legal y privacidad | Rimini Caffè",
+      "ca": "Avís legal i privadesa | Rimini Caffè",
+      "en": "Legal notice & privacy | Rimini Caffè"
+    },
+    "h1": {
+      "es": "Aviso legal y privacidad",
+      "ca": "Avís legal i privadesa",
+      "en": "Legal notice & privacy"
+    },
+    "blocks": [
+      {
+        "h": {
+          "es": "Titular",
+          "ca": "Titular",
+          "en": "Owner"
+        },
+        "p": {
+          "es": "[PENDIENTE: razón social, NIF y domicilio del titular del negocio.] Dirección del local: Ronda de Sant Pere, 37, 08010 Barcelona. Teléfono: +34 652 49 68 27.",
+          "ca": "[PENDENT: raó social, NIF i domicili del titular del negoci.] Adreça del local: Ronda de Sant Pere, 37, 08010 Barcelona. Telèfon: +34 652 49 68 27.",
+          "en": "[PENDING: company name, tax ID and registered address of the business owner.] Venue address: Ronda de Sant Pere, 37, 08010 Barcelona. Phone: +34 652 49 68 27."
+        }
+      },
+      {
+        "h": {
+          "es": "Cookies y datos",
+          "ca": "Cookies i dades",
+          "en": "Cookies & data"
+        },
+        "p": {
+          "es": "Esta web no usa cookies propias ni de seguimiento y no recoge datos personales mediante formularios. Incluye un mapa de Google Maps que se carga con la página: Google puede instalar cookies y recibir tu dirección IP. [PENDIENTE: valorar con un profesional si hace falta un aviso o banner de cookies.] Si se activa una analítica sin cookies, se indicará aquí.",
+          "ca": "Aquesta web no fa servir cookies pròpies ni de seguiment i no recull dades personals mitjançant formularis. Inclou un mapa de Google Maps que es carrega amb la pàgina: Google pot instal·lar cookies i rebre la teva adreça IP. [PENDENT: valorar amb un professional si cal un avís o bàner de cookies.] Si s'activa una analítica sense cookies, s'indicarà aquí.",
+          "en": "This site uses no first-party or tracking cookies and collects no personal data through forms. It includes a Google Maps map that loads with the page: Google may set cookies and receive your IP address. [PENDING: confirm with a professional whether a cookie notice or banner is needed.] If cookie-free analytics is switched on, it will be stated here."
+        }
+      },
+      {
+        "h": {
+          "es": "Revisión",
+          "ca": "Revisió",
+          "en": "Review"
+        },
+        "p": {
+          "es": "[PENDIENTE: este texto es una base y debe revisarlo un profesional jurídico antes del lanzamiento.]",
+          "ca": "[PENDENT: aquest text és una base i l'ha de revisar un professional jurídic abans del llançament.]",
+          "en": "[PENDING: this text is a starting point and must be reviewed by a legal professional before launch.]"
+        }
+      }
+    ]
+  }
+}

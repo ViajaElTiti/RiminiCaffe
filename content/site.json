@@ -1,0 +1,76 @@
+{
+  "name": "Rimini Caffè",
+  "legalName": "[VERIFICAR: razón social]",
+  "baseUrl": "https://riminicaffe.com",
+  "tagline": "Specialty coffee & focacceria",
+  "phone": "+34652496827",
+  "phoneDisplay": "+34 652 49 68 27",
+  "whatsapp": "34652496827",
+  "email": "",
+  "address": {
+    "street": "Ronda de Sant Pere, 37",
+    "postalCode": "08010",
+    "locality": "Barcelona",
+    "region": "Barcelona",
+    "country": "ES",
+    "neighbourhood": "Eixample"
+  },
+  "geo": null,
+  "mapsQuery": "Rimini Caffè, Ronda de Sant Pere 37, 08010 Barcelona",
+  "social": {
+    "instagram": "https://www.instagram.com/riminicaffespain/",
+    "tiktok": "https://www.tiktok.com/@riminicaffespain"
+  },
+  "orderLinks": [],
+  "analytics": {
+    "plausibleDomain": ""
+  },
+  "timezone": "Europe/Madrid",
+  "hours": {
+    "mon": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ],
+    "tue": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ],
+    "wed": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ],
+    "thu": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ],
+    "fri": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ],
+    "sat": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ],
+    "sun": [
+      [
+        "09:00",
+        "21:00"
+      ]
+    ]
+  },
+  "closedDates": [],
+  "priceRange": "€€",
+  "reviewUrl": ""
+}

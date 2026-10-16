@@ -1,0 +1,443 @@
+{
+  "_note": "price: número en euros (null = sin precio publicado). verify:true = dato pendiente de confirmar por el local. tags: v = vegetariano.",
+  "currency": "EUR",
+  "categories": [
+    {
+      "id": "coffee",
+      "name": {
+        "es": "Café",
+        "ca": "Cafè",
+        "en": "Coffee"
+      },
+      "photo": "latte-heart",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 2.0
+        },
+        {
+          "name": {
+            "es": "Espresso doble",
+            "ca": "Espresso doble",
+            "en": "Double espresso"
+          },
+          "price": 2.2
+        },
+        {
+          "name": "Cortado",
+          "price": 2.5
+        },
+        {
+          "name": "Americano",
+          "price": 2.2
+        },
+        {
+          "name": "Cappuccino",
+          "price": 3.1
+        },
+        {
+          "name": "Caffè latte",
+          "price": 3.0
+        },
+        {
+          "name": "Flat white",
+          "price": 3.5
+        },
+        {
+          "name": "Mocaccino",
+          "price": 3.5
+        },
+        {
+          "name": "Cold brew",
+          "price": 3.5
+        }
+      ]
+    },
+    {
+      "id": "matcha",
+      "name": {
+        "es": "Matcha y té",
+        "ca": "Matcha i te",
+        "en": "Matcha & tea"
+      },
+      "photo": "matcha-marble",
+      "items": [
+        {
+          "name": "Matcha latte",
+          "price": 4.5
+        },
+        {
+          "name": "Chai latte",
+          "price": 5.0
+        },
+        {
+          "name": {
+            "es": "Infusiones",
+            "ca": "Infusions",
+            "en": "Infusions"
+          },
+          "price": 2.5
+        }
+      ]
+    },
+    {
+      "id": "smoothies",
+      "name": {
+        "es": "Smoothies",
+        "ca": "Smoothies",
+        "en": "Smoothies"
+      },
+      "items": [
+        {
+          "name": "Mixed berries",
+          "price": 6.9
+        },
+        {
+          "name": "Banana",
+          "price": 6.9
+        },
+        {
+          "name": "Green",
+          "price": 6.9
+        },
+        {
+          "name": "Tiramisu",
+          "price": 6.9
+        },
+        {
+          "name": "Tropical",
+          "price": 6.9
+        }
+      ]
+    },
+    {
+      "id": "pastries",
+      "name": {
+        "es": "Bollería",
+        "ca": "Brioixeria",
+        "en": "Pastries"
+      },
+      "items": [
+        {
+          "name": "Croissant",
+          "price": 3.5
+        },
+        {
+          "name": "Hazelnut croissant",
+          "price": 4.9
+        },
+        {
+          "name": "Pistachio croissant",
+          "price": 4.9
+        },
+        {
+          "name": "Banana bread",
+          "price": 4.9
+        },
+        {
+          "name": "Lemon cake",
+          "price": 4.9
+        }
+      ]
+    },
+    {
+      "id": "brunch",
+      "name": {
+        "es": "Brunch",
+        "ca": "Brunch",
+        "en": "Brunch"
+      },
+      "photo": "bowl",
+      "items": [
+        {
+          "name": "Yoghurt granola",
+          "price": 9.9
+        },
+        {
+          "name": "Avocado toast",
+          "price": 11.9
+        },
+        {
+          "name": "Eggs Benedict",
+          "price": 15.9
+        },
+        {
+          "name": "Breakfast sandwich",
+          "price": 8.9
+        },
+        {
+          "name": "Pancakes",
+          "price": 10.9
+        },
+        {
+          "name": "Waffles",
+          "price": 11.9
+        }
+      ]
+    },
+    {
+      "id": "focacce",
+      "name": {
+        "es": "Focacce",
+        "ca": "Focacce",
+        "en": "Focacce"
+      },
+      "photo": "focaccia-mortadella",
+      "items": [
+        {
+          "name": "Prosciutto",
+          "price": 11.9
+        },
+        {
+          "name": "Mortadella",
+          "price": 12.9
+        },
+        {
+          "name": "Vitello tonnato",
+          "price": 14.9
+        },
+        {
+          "name": "Vegetarian",
+          "price": 9.9,
+          "tags": [
+            "v"
+          ]
+        },
+        {
+          "name": "Salame",
+          "price": 11.9
+        },
+        {
+          "name": "Porchetta",
+          "price": 11.5,
+          "verify": "La carta impresa dice «Prochetta»"
+        }
+      ]
+    },
+    {
+      "id": "pizzas",
+      "name": {
+        "es": "Pizzas",
+        "ca": "Pizzes",
+        "en": "Pizzas"
+      },
+      "photo": "pizza-diavola",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": 14.9
+        },
+        {
+          "name": "Diavola",
+          "price": 18.9
+        },
+        {
+          "name": "Truffle",
+          "price": 21.9
+        },
+        {
+          "name": "Mortadella",
+          "price": 20.9
+        },
+        {
+          "name": "Vegetarian",
+          "price": 14.9,
+          "tags": [
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "name": {
+        "es": "Ensaladas",
+        "ca": "Amanides",
+        "en": "Salads"
+      },
+      "items": [
+        {
+          "name": "Green salad",
+          "price": 11.9
+        },
+        {
+          "name": "Caprese salad",
+          "price": 11.9
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": {
+        "es": "Postres",
+        "ca": "Postres",
+        "en": "Desserts"
+      },
+      "items": [
+        {
+          "name": "Cheesecake",
+          "price": 7.9,
+          "verify": "En la carta impresa aparece en Bollería y en Postres, al mismo precio"
+        },
+        {
+          "name": "Brownie",
+          "price": 6.9
+        },
+        {
+          "name": "Tiramisù",
+          "price": 6.9
+        }
+      ]
+    },
+    {
+      "id": "aperitivo",
+      "name": {
+        "es": "Aperitivo",
+        "ca": "Aperitiu",
+        "en": "Aperitivo"
+      },
+      "items": [
+        {
+          "name": "Aperol spritz",
+          "price": 8.9
+        },
+        {
+          "name": "Campari spritz",
+          "price": null
+        },
+        {
+          "name": {
+            "es": "Alhambra (cerveza)",
+            "ca": "Alhambra (cervesa)",
+            "en": "Alhambra (beer)"
+          },
+          "price": 3.5
+        },
+        {
+          "name": "Vermouth",
+          "price": 7.5
+        },
+        {
+          "name": "Gin tonic",
+          "price": null
+        },
+        {
+          "name": "Vodka",
+          "price": null
+        },
+        {
+          "name": {
+            "es": "Tabla de embutidos y quesos italianos",
+            "ca": "Taula d'embotits i formatges italians",
+            "en": "Italian cold cuts and cheese board"
+          },
+          "price": null,
+          "verify": "Sin precio ni composición (dato de un directorio externo)"
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "name": {
+        "es": "Vino y burbujas",
+        "ca": "Vi i bombolles",
+        "en": "Wine & bubbles"
+      },
+      "items": [
+        {
+          "name": "Pecorino",
+          "price": null
+        },
+        {
+          "name": "Grillo",
+          "price": null
+        },
+        {
+          "name": "Memoro",
+          "price": null,
+          "verify": "Confirmar grafía"
+        },
+        {
+          "name": "Nzero Negroamaro",
+          "price": null,
+          "verify": "El dueño escribió «Nzero negromaro»: confirmar grafía"
+        },
+        {
+          "name": "Cava",
+          "price": null
+        },
+        {
+          "name": "Prosecco",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "soft",
+      "name": {
+        "es": "Sin alcohol",
+        "ca": "Sense alcohol",
+        "en": "Soft drinks"
+      },
+      "items": [
+        {
+          "name": {
+            "es": "Agua",
+            "ca": "Aigua",
+            "en": "Water"
+          },
+          "price": 2.9
+        },
+        {
+          "name": {
+            "es": "Coca-Cola (normal o zero)",
+            "ca": "Coca-Cola (normal o zero)",
+            "en": "Coca-Cola (regular or zero)"
+          },
+          "price": 3.0
+        },
+        {
+          "name": "Sprite",
+          "price": 3.0
+        },
+        {
+          "name": "Fuze Tea",
+          "price": 3.0
+        },
+        {
+          "name": {
+            "es": "Tónica",
+            "ca": "Tònica",
+            "en": "Tonic"
+          },
+          "price": 3.0
+        },
+        {
+          "name": {
+            "es": "Limonada italiana Polara",
+            "ca": "Llimonada italiana Polara",
+            "en": "Italian lemonade Polara"
+          },
+          "price": 3.9
+        },
+        {
+          "name": {
+            "es": "Chinotto italiano Polara",
+            "ca": "Chinotto italià Polara",
+            "en": "Italian chinotto Polara"
+          },
+          "price": 3.9,
+          "verify": "El dueño escribió «Chinoto»"
+        },
+        {
+          "name": {
+            "es": "Zumo de naranja natural exprimido",
+            "ca": "Suc de taronja natural espremut",
+            "en": "Freshly squeezed orange juice"
+          },
+          "price": null
+        }
+      ]
+    }
+  ]
+}
